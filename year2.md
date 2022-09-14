@@ -2,7 +2,7 @@
 title: 二年级 Year 2 
 feature_text: |
   <a href="top"></a>
-feature_image: "/SRJKC_resources/assets/images/BC_2_cover.png"
+feature_image: "/home/assets/images/BC_2_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
 ---
 Resources available for each chapter: **Audio books** （课文朗读）\
