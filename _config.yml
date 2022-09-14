@@ -95,8 +95,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SRJKC Resource Centre" # Site name or title, also used in jekyll-seo-tag
-##logo: "/SRJKC_resources/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "/SRJKC_resources/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
+##logo: "/home/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/home/assets/logos/site_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Multilingual Malaysian is a site ......." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -123,21 +123,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
     - title: Home
-      url: /SRJKC_resources/
+      url: /home/
     - title: Year 1
-      url: /SRJKC_resources/year1/
+      url: /home/year1/
     - title: Year 2
-      url: /SRJKC_resources/year2/
+      url: /home/year2/
     - title: Year 3
-      url: /SRJKC_resources/year3/
+      url: /home/year3/
     - title: Year 4
-      url: /SRJKC_resources/year4/
+      url: /home/year4/
     - title: Year 5
-      url: /SRJKC_resources/year5/
+      url: /home/year5/
     - title: Year 6
-      url: /SRJKC_resources/year6/
+      url: /home/year6/
     - title: Communities
-      url: /SRJKC_resources/communities/
+      url: /home/communities/
         
 
 
