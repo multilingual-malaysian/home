@@ -135,7 +135,16 @@ navigation_header:
   url: https://github.com/daviddarnes/alembic
 - title: Year 1   
   url: /home/year1/
-
+- title: Year 2
+  url: /SRJKC_resources/year2/
+- title: Year 3
+  url: /SRJKC_resources/year3/
+- title: Year 4
+  url: /SRJKC_resources/year4/
+- title: Year 5
+  url: /SRJKC_resources/year5/
+- title: Year 6
+  url: /SRJKC_resources/year6/
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
